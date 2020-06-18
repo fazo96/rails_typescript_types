@@ -1,0 +1,11 @@
+{
+  "name": "rails_typescript_types",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Enrico Fasoli (fazo96)",
+  "license": "MIT"
+}
